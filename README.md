@@ -17,6 +17,9 @@ You can also find iOS version of this [here](https://github.com/ninjaprox/NVActi
 ## Demo
 ![avi](screenshots/avi.gif)
 
+## 介绍样式
+https://blog.csdn.net/u010725171/article/details/81358737
+
 ## Usage
 
 ### Step 1
